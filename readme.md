@@ -8,7 +8,7 @@ I made it because I often work with VMs and I need to configure fake domains for
 
 ## Install Hostr
 
-Installing Hostr is ridicolusly simple. All you have to do is to **execute, as `sudo`, this command** from your terminal.
+Installing Hostr is ridiculously simple. All you have to do is to **execute, as `sudo`, this command** from your terminal.
 
     $ wget http://hellofrancesco.com/projects/hostr.phar && chmod 755 hostr.phar && mv hostr.phar /usr/local/bin/hostr
 
