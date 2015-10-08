@@ -1,7 +1,5 @@
 # Hostr (1.1)
 
-[![StyleCI](https://styleci.io/repos/43748520/shield)](https://styleci.io/repos/43748520)
-
 **Hostr is a simple, easy to use and intuitive CLI-based tool that you can use to manage your hosts file.**
 
 I made it because I often work with VMs and I need to configure fake domains for my projects.
