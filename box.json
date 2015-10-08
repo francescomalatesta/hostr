@@ -1,0 +1,34 @@
+{
+  "finder": [
+    {
+      "name": "*.php",
+      "exclude": [
+        "phpunit",
+        "phpspec",
+        "phpdocumentor",
+        "myclabs",
+        "sebastian",
+        "phpunit-test-case",
+        "Tester",
+        "Tests",
+        "tests",
+        "yaml"
+      ],
+      "in": "vendor"
+    },
+    {
+      "name": "*.php",
+      "in": "app"
+    }
+  ],
+
+  "files": ["config/bindings.php", "bin/index.php"],
+  "output": "hostr.phar",
+
+  "main": "bin/index.php",
+
+  "compression": "GZ",
+
+  "chmod": "0755",
+  "stub": true
+}

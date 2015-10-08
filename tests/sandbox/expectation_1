@@ -1,0 +1,5 @@
+127.0.0.1		localhost		
+
+# The following lines are desirable for IPv6 capable hosts
+192.168.2.2		quotr.dev		
+192.168.9.9		hostname.test		alias1		alias2
