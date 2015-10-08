@@ -126,3 +126,7 @@ Install dependencies with
 Then, in the root of the project, type
 
     $ vendor/bin/phpunit
+
+## Credits
+
+Thanks to Emanuele Minotto for the help with Box.
